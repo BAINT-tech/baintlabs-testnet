@@ -1,0 +1,6 @@
+{
+  "network": "baintlabs-testnet",
+  "rpc": "https://rpc.baintlabs.org/testnet",
+  "chainId": 12345,
+  "explorer": "https://explorer.baintlabs.org/testnet"
+}
